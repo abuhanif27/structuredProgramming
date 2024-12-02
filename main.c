@@ -1,7 +1,7 @@
-#include "classHomeWork/binaryToDecimal.c"
+#include "classHomeWork/statistics.c"
 
 int main(void) {
-    binaryToDecimal();
+    statistics();
 
     return 0;
 }
