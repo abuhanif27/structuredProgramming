@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void reverseNumber(int number) {
-    int reverse=0;
+    int reverse = 0;
     int target = number;
 
     while (number != 0) {

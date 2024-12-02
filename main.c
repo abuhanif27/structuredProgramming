@@ -1,6 +1,7 @@
-#include "classHomeWork/decimalToBinary.c"
+#include "classHomeWork/binaryToDecimal.c"
 
 int main(void) {
-    decimalToBinary();
+    binaryToDecimal();
+
     return 0;
 }
