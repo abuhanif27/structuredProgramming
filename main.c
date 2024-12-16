@@ -1,7 +1,7 @@
-#include "labFinalPrep/binaryToDecimal.c"
+#include "labFinalPrep/transposeMatrix.c"
 
 int main()
 {
-    binaryToDecimal(111);
+    transposeMatrix();
     return 0;
 }
