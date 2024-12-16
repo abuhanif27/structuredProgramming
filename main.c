@@ -1,7 +1,7 @@
-#include "labFinalPrep/transposeMatrix.c"
+#include "labFinalPrep/pyramid.c"
 
 int main()
 {
-    transposeMatrix();
+    test();
     return 0;
 }
