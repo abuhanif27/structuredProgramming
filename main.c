@@ -1,4 +1,4 @@
-#include "labFinalPrep/primeRecursion.c"
+#include "labFinalPrep/sumOfNaturalNumbers.c"
 
 int main()
 {
