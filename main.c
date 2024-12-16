@@ -1,7 +1,6 @@
-#include <stdio.h>
+#include "labFinalPrep/primeRecursion.c"
 
 int main()
 {
-    printf("Hello, World!\n");
-    return 0;
+    test();
 }
