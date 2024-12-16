@@ -1,7 +1,7 @@
-#include "labFinalPrep/pallindrome.c"
+#include "labFinalPrep/binaryToDecimal.c"
 
 int main()
 {
-    test();
+    binaryToDecimal(111);
     return 0;
 }
